@@ -1,0 +1,23 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=64682 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-6-program-2-random-letter-app-jsonnek/out/production/Random Letter APP Main
+Word  1: qkmckqqoml
+Word  2: qkmckqqaml
+Word  3: ckmckqqaml
+Word  4: ckmykqqaml
+Word  5: ckmykqqxml
+Word  6: fkmykqqxml
+Word  7: fkmukqqxml
+Word  8: fkmukqqrml
+Word  9: fxmukqqrml
+Word 10: oxmukqqrml
+Word 11: okmukqqrml
+Word 12: okrukqqrml
+Word 13: oknukqqrml
+Word 14: oknvkqqrml
+Word 15: oknvkqqaml
+Word 16: ounvkqqaml
+Word 17: punvkqqaml
+Word 18: punvkqqvml
+Word 19: punvhqqvml
+Word 20: vunvhqqvml
+
+Process finished with exit code 0
